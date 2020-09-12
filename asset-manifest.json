@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2acaf405.chunk.css",
+    "main.js": "/static/js/main.0b9d9112.chunk.js",
+    "main.js.map": "/static/js/main.0b9d9112.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf8c75f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf8c75f0.js.map",
+    "static/css/2.7c58bcc2.chunk.css": "/static/css/2.7c58bcc2.chunk.css",
+    "static/js/2.4a8001de.chunk.js": "/static/js/2.4a8001de.chunk.js",
+    "static/js/2.4a8001de.chunk.js.map": "/static/js/2.4a8001de.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.79cf3bdec493725721f79d469e9b291c.js": "/precache-manifest.79cf3bdec493725721f79d469e9b291c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7c58bcc2.chunk.css.map": "/static/css/2.7c58bcc2.chunk.css.map",
+    "static/css/main.2acaf405.chunk.css.map": "/static/css/main.2acaf405.chunk.css.map",
+    "static/js/2.4a8001de.chunk.js.LICENSE.txt": "/static/js/2.4a8001de.chunk.js.LICENSE.txt",
+    "static/media/fg.png": "/static/media/fg.8c4596ac.png",
+    "static/media/iPhone-11-PNG-Transparent-HD-Photo.png": "/static/media/iPhone-11-PNG-Transparent-HD-Photo.76fe2b87.png",
+    "static/media/pc-gamer-transparent-png-clipart-free-download-ywd-pc-gamer-png-1000_600.png": "/static/media/pc-gamer-transparent-png-clipart-free-download-ywd-pc-gamer-png-1000_600.e31ad85a.png",
+    "static/media/pe-uhdtv-nu8000-un75nu8000gxpe-frontblack-113917484.webp": "/static/media/pe-uhdtv-nu8000-un75nu8000gxpe-frontblack-113917484.7157ce1a.webp",
+    "static/media/scarlet-red.png": "/static/media/scarlet-red.f05c81d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf8c75f0.js",
+    "static/css/2.7c58bcc2.chunk.css",
+    "static/js/2.4a8001de.chunk.js",
+    "static/css/main.2acaf405.chunk.css",
+    "static/js/main.0b9d9112.chunk.js"
+  ]
+}
